@@ -6,7 +6,7 @@ This repository contains solutions to various **LeetCode** problems that I have 
 
 Each problem is organized in a dedicated folder with the following structure:
 
-## ```bash
+- ```bash
     leetcode/
        | _ProblemNumber/ProblemName
            |_ SolutionFile.java
@@ -52,12 +52,13 @@ This list will grow as I continue to solve problems across various topics.
 
 ## Sample of Solved Problems
 
-| Problem Number | Problem Title                            | Solution Link                                                                                               |
-|----------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 118            | Pascal's Triangle                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_118/PascalsTriangle)                    |
-| 1310           | XOR Queries of a Subarray                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1310/XORQueriesOfaSubarray)             |
-| 268            | Missing Number                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_268/MissingNumber)                      |
+| Problem Number | Problem Title                            | Solution Link                                                                                           |
+|----------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 118            | Pascal's Triangle                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_118/PascalsTriangle)                |
+| 1310           | XOR Queries of a Subarray                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1310/XORQueriesOfaSubarray)         |
+| 268            | Missing Number                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_268/MissingNumber)                  |
 | 448            | Find All Numbers Disappeared in an Array | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_448/FindAllNumbersDisappearedinanArray) |
+| 58             | Length of Last word                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_58/LengthofLastWord) |
 
 More problems will be added as I continue solving them on LeetCode.
 
