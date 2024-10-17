@@ -1,4 +1,4 @@
-package Github._58.LengthofLastWord;
+package Github._58LengthofLastWord;
 
 //https://leetcode.com/problems/length-of-last-word/description/
 //_58.LengthofLastWord

@@ -1,4 +1,4 @@
-package Github._1310.XORQueriesOfaSubarray;
+package Github._1310XORQueriesOfaSubarray;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Github._448.FindAllNumbersDisappearedinanArray;
+package Github._448FindAllNumbersDisappearedinanArray;
 
 //https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 //448. Find All Numbers Disappeared in an Array

@@ -1,4 +1,4 @@
-package Github._268.MissingNumber;
+package Github._268MissingNumber;
 
 
 //https://leetcode.com/problems/missing-number/description/

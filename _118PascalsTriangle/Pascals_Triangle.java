@@ -1,7 +1,7 @@
 
 //https://leetcode.com/problems/pascals-triangle/description/
 //_118.Pascal'sTriangle
-package Github._118.PascalsTriangle;
+package Github._118PascalsTriangle;
 
 import java.util.ArrayList;
 import java.util.List;
