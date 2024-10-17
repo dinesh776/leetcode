@@ -17,6 +17,20 @@ Each problem is organized in a dedicated folder with the following structure:
 - **SolutionFile.java**: The main solution file for the problem, typically written in Java. Other languages may be added in the future.
 - **README.md**: A markdown file providing an explanation of the problem, approach, time complexity, and instructions on how to run the solution.
 
+## Sample of Solved Problems
+
+| Problem Number | Problem Title                            | Solution Link                                                                                           |
+|----------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 118            | Pascal's Triangle                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_118/PascalsTriangle)                |
+| 1310           | XOR Queries of a Subarray                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1310/XORQueriesOfaSubarray)         |
+| 268            | Missing Number                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_268/MissingNumber)                  |
+| 448            | Find All Numbers Disappeared in an Array | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_448/FindAllNumbersDisappearedinanArray) |
+| 58             | Length of Last word                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_58/LengthofLastWord) |
+| 27             | Remove Elements from Array               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_27RemoveElement) |
+
+More problems will be added as I continue solving them on LeetCode.
+
+
 ## How to Use
 
 1. Clone the repository:
@@ -50,17 +64,6 @@ Here are some problem categories covered in this repository:
 
 This list will grow as I continue to solve problems across various topics.
 
-## Sample of Solved Problems
-
-| Problem Number | Problem Title                            | Solution Link                                                                                           |
-|----------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 118            | Pascal's Triangle                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_118/PascalsTriangle)                |
-| 1310           | XOR Queries of a Subarray                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1310/XORQueriesOfaSubarray)         |
-| 268            | Missing Number                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_268/MissingNumber)                  |
-| 448            | Find All Numbers Disappeared in an Array | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_448/FindAllNumbersDisappearedinanArray) |
-| 58             | Length of Last word                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_58/LengthofLastWord) |
-
-More problems will be added as I continue solving them on LeetCode.
 
 ## How to Contribute
 
