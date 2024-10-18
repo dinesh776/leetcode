@@ -27,6 +27,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 448            | Find All Numbers Disappeared in an Array | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_448/FindAllNumbersDisappearedinanArray) |
 | 58             | Length of Last word                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_58/LengthofLastWord) |
 | 27             | Remove Elements from Array               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_27RemoveElement) |
+| 26             | Remove Elements from Sorted Array        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_26RemoveDuplicatesFromSortedArray) |
 
 More problems will be added as I continue solving them on LeetCode.
 
