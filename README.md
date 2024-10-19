@@ -28,6 +28,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 58             | Length of Last word                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_58/LengthofLastWord) |
 | 27             | Remove Elements from Array               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_27RemoveElement) |
 | 26             | Remove Elements from Sorted Array        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_26RemoveDuplicatesFromSortedArray) |
+| 35             | Search Insert Position                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_35SearchInsertPosition) |
 
 More problems will be added as I continue solving them on LeetCode.
 
