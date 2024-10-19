@@ -29,6 +29,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 27             | Remove Elements from Array               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_27RemoveElement) |
 | 26             | Remove Elements from Sorted Array        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_26RemoveDuplicatesFromSortedArray) |
 | 35             | Search Insert Position                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_35SearchInsertPosition) |
+| 28             | Find the Index of the First Occurrence in a String                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_28FindTheIndexOfTheFirstOccurrenceInAString) |
 
 More problems will be added as I continue solving them on LeetCode.
 
