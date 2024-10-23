@@ -33,6 +33,9 @@ Each problem is organized in a dedicated folder with the following structure:
 | 169            | Majority Element                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_169MajorityElement) |
 | 283            | Move Zeroes                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_283MoveZeroes) |
 | 645            | Set Mismatch                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_645SetMismatch) |
+| 1089           | Duplicate zeros                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1089DuplicateZeros) |
+
+
 More problems will be added as I continue solving them on LeetCode.
 
 
