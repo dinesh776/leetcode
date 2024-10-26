@@ -34,8 +34,9 @@ Each problem is organized in a dedicated folder with the following structure:
 | 283            | Move Zeroes                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_283MoveZeroes) |
 | 645            | Set Mismatch                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_645SetMismatch) |
 | 1089           | Duplicate zeros                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1089DuplicateZeros) |
-| 217            | Contains Duplicate                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_217ContainsDuplicate) |
-| 3              | Longest Substring Without Repeating Characters                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_3LongestSubstringWithNoRepeatingCharacter) |
+| 217            | Contains Duplicate                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_217ContainsDuplicate) |
+| 3              | Longest Substring Without Repeating Characters     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_3LongestSubstringWithNoRepeatingCharacter) |
+| 7              | Reverse a Integer                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_7ReverseInteger) |
 
 
 More problems will be added as I continue solving them on LeetCode.
