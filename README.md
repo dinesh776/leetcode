@@ -37,7 +37,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 217            | Contains Duplicate                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_217ContainsDuplicate) |
 | 3              | Longest Substring Without Repeating Characters     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_3LongestSubstringWithNoRepeatingCharacter) |
 | 7              | Reverse a Integer                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_7ReverseInteger) |
-
+| 9              | Palindrome                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_9Palindrome) |
 
 More problems will be added as I continue solving them on LeetCode.
 
