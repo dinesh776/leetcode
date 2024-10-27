@@ -39,7 +39,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 7              | Reverse a Integer                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_7ReverseInteger) |
 | 9              | Palindrome                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_9Palindrome) |
 
-More problems will be added as I continue solving them on LeetCode.
+More problem's will be added as I continue solving them on LeetCode.
 
 
 ## How to Use
