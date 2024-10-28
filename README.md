@@ -63,7 +63,7 @@ Each solution folder has detailed instructions on how to run the specific code f
 Here are some problem categories covered in this repository:
 
 - Array
-- Sorting
+- Sorting (bubble,selection,insertion,cyclic,merge,quick,radix,bucket,heap)
 - Dynamic Programming
 - Linked List
 - Trees
