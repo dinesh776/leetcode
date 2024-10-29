@@ -38,6 +38,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 3              | Longest Substring Without Repeating Characters     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_3LongestSubstringWithNoRepeatingCharacter) |
 | 7              | Reverse a Integer                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_7ReverseInteger) |
 | 9              | Palindrome                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_9Palindrome) |
+| 509            | Fibonacci Number                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_509FibonacciNumber) |
+
 
 More problem's will be added as I continue solving them on LeetCode.
 
