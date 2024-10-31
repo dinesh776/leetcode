@@ -44,8 +44,7 @@ Each problem is organized in a dedicated folder with the following structure:
 
 More problem's will be added as I continue solving them on LeetCode.
 
-
-## How to Use
+## How to Use 
 
 1. Clone the repository:
    ```bash
