@@ -19,11 +19,11 @@ Each problem is organized in a dedicated folder with the following structure:
 
 ## Sample of Solved Problems
 
-| Problem Number | Problem Title                                      | Solution Link                                                                                           |
-|----------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 118            | Pascal's Triangle                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_118/PascalsTriangle)                |
-| 1310           | XOR Queries of a Subarray                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1310/XORQueriesOfaSubarray)         |
-| 268            | Missing Number                                     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_268/MissingNumber)                  |
+| Problem Number | Problem Title                                      | Solution Link                                                                                       |
+|----------------|----------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 118            | Pascal's Triangle                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_118/PascalsTriangle)            |
+| 1310           | XOR Queries of a Subarray                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1310/XORQueriesOfaSubarray)     |
+| 268            | Missing Number                                     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_268/MissingNumber)              |
 | 448            | Find All Numbers Disappeared in an Array           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_448/FindAllNumbersDisappearedinanArray) |
 | 58             | Length of Last word                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_58/LengthofLastWord) |
 | 27             | Remove Elements from Array                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_27RemoveElement) |
@@ -40,6 +40,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 9              | Palindrome                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_9Palindrome) |
 | 509            | Fibonacci Number                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_509FibonacciNumber) |
 | 125            | Valid Palindrome                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_125ValidPalindrome) |
+| 189            | Rotate Array                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_189RotateArray) |
 
 
 More problem's will be added as I continue solving them on LeetCode.
