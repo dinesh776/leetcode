@@ -9,7 +9,6 @@ public class RotateArray {
     public static void main(String[] args) {
         int[] arr={-1,2,3};
         int k=5;
-        Integer.MIN_VALUE
         rotate(arr,k);
         System.out.println(Arrays.toString(arr));
     }
