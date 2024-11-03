@@ -41,6 +41,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 509            | Fibonacci Number                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_509FibonacciNumber) |
 | 125            | Valid Palindrome                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_125ValidPalindrome) |
 | 189            | Rotate Array                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_189RotateArray) |
+| 485            | Max Consecutive One's                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_485MaxConsecutiveOnes) |
 
  
 More problem's will be added as I continue solving them on LeetCode.
