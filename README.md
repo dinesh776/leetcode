@@ -43,6 +43,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 189            | Rotate Array                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_189RotateArray) |
 | 485            | Max Consecutive One's                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_485MaxConsecutiveOnes) |
 | 136            | Single Number                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_136SingleNumber) |
+| 53             | Maximum SubArray                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_53MaximumSubarray) |
 
  
 More problem's will be added as I continue solving them on LeetCode.
