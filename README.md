@@ -46,6 +46,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 53             | Maximum SubArray                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_53MaximumSubarray)                           |
 | 2149           | Rearrange Array Elements by Sign                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_2149RearrangeArrayElementsBysign)            |
 | 31             | Next Permutation                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_31NextPermutation)                           |
+| 73             | Set Matrix Zeroes                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_73SetMatrixZeroes)                           |
 
 
 
