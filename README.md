@@ -48,6 +48,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 31             | Next Permutation                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_31NextPermutation)                           |
 | 73             | Set Matrix Zeroes                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_73SetMatrixZeroes)                           |
 | 48             | Rotate Image                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_48RotateImage)                               |
+| 54             | Spiral Matrix                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_54SpiralMatrix)                              |
 
 
 
