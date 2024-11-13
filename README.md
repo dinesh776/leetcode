@@ -49,7 +49,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 73             | Set Matrix Zeroes                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_73SetMatrixZeroes)                           |
 | 48             | Rotate Image                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_48RotateImage)                               |
 | 54             | Spiral Matrix                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_54SpiralMatrix)                              |
-| 128            | Longest Consecutive Sequence                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_128LongestConsecutiveSequence)                                         |
+| 128            | Longest Consecutive Sequence                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_128LongestConsecutiveSequence)               |
+| 560            | Subarray Sum Equals K                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_560SubarraySumEqualsK)                                         |
 
 
 
