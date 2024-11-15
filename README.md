@@ -52,6 +52,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 128            | Longest Consecutive Sequence                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_128LongestConsecutiveSequence)               |
 | 560            | Subarray Sum Equals K                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_560SubarraySumEqualsK)                       |
 | 229            | Majority Element 2                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_229MajorityElement2)                         |
+| 75             | Sort Colors                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_75SortColors)                                |
 
 
 
