@@ -1,5 +1,6 @@
 # Longest Substring Without Repeating Characters
 
+
 This repository contains a solution to the LeetCode problem [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/), implemented in Java.
 
 ## Problem Description
