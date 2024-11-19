@@ -56,6 +56,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 121            | Best Time to Buy and Sell Stock                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_121BestTimeToBuyAndSellStock)                |
 | 15             | 3 Sum                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_15ThreeSum)                                  |
 | 18             | 4 Sum                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_18FourSum)                                   |
+| 56             | Merge Intervals                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_56MergeIntervals)                            |
 
 
 
