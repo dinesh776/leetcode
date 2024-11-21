@@ -7,6 +7,7 @@ This repository contains a solution to the LeetCode problem [Longest Substring W
 
 Given a string `s`, find the length of the longest substring that does not contain any repeating characters.
 
+
 ### Example
 
 **Input:**
