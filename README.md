@@ -59,6 +59,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 56             | Merge Intervals                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_56MergeIntervals)                            |
 | 88             | Merge Sorted Arrays                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_88MergeSortedArray)                          |
 | 152            | Maximum Product Subarray                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_152MaximumProductSubarray)                   |
+| 74             | Search a 2D Matrix                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_74SearchA2DMatrix)                           |
 
 
 
