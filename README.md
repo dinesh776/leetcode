@@ -61,6 +61,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 152            | Maximum Product Subarray                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_152MaximumProductSubarray)                   |
 | 74             | Search a 2D Matrix                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_74SearchA2DMatrix)                           |
 | 287            | Find The Duplicate Number                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_287FindTheDuplicateNumber)                   |
+| 34             | Find First and Last Position of Element in Sorted Array                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_34FindFirstAndLast)                          |
 
 
 
