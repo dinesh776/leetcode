@@ -66,7 +66,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 33             | Search in Rotated Sorted Array 1                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_33SearchInRotatedSortedArray)                |
 | 81             | Search in Rotated Sorted Array 2                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_81SearchInRotatedSortedArray)                |
 | 540            | Single Element in a Sorted Array                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_540SingleElementInASortedArray)              |
-| 162            | Find Peak Element                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_162FindPeakElement)                                         |
+| 162            | Find Peak Element                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_162FindPeakElement)                          |
+| 1539           |  Kth Missing Positive Number                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1539KthMissingPositiveNumber)                                        |
 
 
 
