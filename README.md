@@ -69,7 +69,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 162            | Find Peak Element                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_162FindPeakElement)                          |
 | 1539           |  Kth Missing Positive Number                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1539KthMissingPositiveNumber)                |
 | 1482           |  Minimum Number of Days to Make m Bouquets                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1482MinimumNumberOfDaysToMakeMBouquets)      |
-| 1011           |  Capacity To Ship Packages Within D Days                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1011CapacityToShipPackagesWithinDDays)                                        |
+| 1011           |  Capacity To Ship Packages Within D Days                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1011CapacityToShipPackagesWithinDDays)       |
+| 410            |  Split Array Largest Sum                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_410SplitArrayLargestSum)                                         |
 
 
 
