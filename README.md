@@ -73,6 +73,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 410            |  Split Array Largest Sum                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_410SplitArrayLargestSum)                     |
 | 4              |  Median of Two Sorted Arrays                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_4MedianOfTwoSortedArrays)                    |
 | 1901           |  Find a Peak Element II                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1901FindAPeakElement2)                       |
+| 875            |  Koko Eating Bananas                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_875KokoEatingBananas)                                         |
 
 
 
