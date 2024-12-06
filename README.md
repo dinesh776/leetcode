@@ -75,6 +75,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 1901           |  Find a Peak Element II                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1901FindAPeakElement2)                      |
 | 875            |  Koko Eating Bananas                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_875KokoEatingBananas)                       |
 | 240            |  Search a 2D Matrix II                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_240SearchA2DMatrix2)                        |
+| 1283           |  Find the Smallest Divisor Given a Threshold                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1283FindTheSmallestDivisorGivenAThreshold)  |
 
 
 
