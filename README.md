@@ -77,7 +77,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 240            | Search a 2D Matrix II                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_240SearchA2DMatrix2)                         |
 | 1283           | Find the Smallest Divisor Given a Threshold             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1283FindTheSmallestDivisorGivenAThreshold)   |
 | 1903           | Largest Odd Number in String                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1903LargestOddNumberInString)                |
-| 796            | Rotate String                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_796RotateString)                                         |
+| 796            | Rotate String                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_796RotateString)                             |
+| 242            | Valid Anagram                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_242ValidAnagram)                                         |
 
 
 
