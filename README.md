@@ -85,6 +85,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 8              | String to Integer (atoi)                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_8StringToInteger)                            |
 | 50             | Pow(x, n)                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_50PowOfXn)                                   |
 | 1342           | Number of Steps to Reduce a Number to Zero                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1342NumberSteps)                             |
+| 17             | Letter Combinations of a Phone Number                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_17PhoneNumber)                               |
 
 
 
