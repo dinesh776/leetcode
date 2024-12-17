@@ -86,6 +86,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 50             | Pow(x, n)                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_50PowOfXn)                                   |
 | 1342           | Number of Steps to Reduce a Number to Zero                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1342NumberSteps)                             |
 | 17             | Letter Combinations of a Phone Number                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_17PhoneNumber)                               |
+| 5              | Longest Palindromic Substring                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_5LongestPalindromicSubstring)                                           |
 
 
 
