@@ -79,14 +79,15 @@ Each problem is organized in a dedicated folder with the following structure:
 | 1903           | Largest Odd Number in String                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1903LargestOddNumberInString)                |
 | 796            | Rotate String                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_796RotateString)                             |
 | 242            | Valid Anagram                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_242ValidAnagram)                             |
-| 205            | Isomorphic Strings                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_205IsomorphicString)                         |
-| 1614           | Maximum Nesting Depth of the Parentheses                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1614MaximumDepthOfTheParentheses)            |
-| 13             | Roman to Integer                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_13RomanToInteger)                            |
-| 8              | String to Integer (atoi)                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_8StringToInteger)                            |
-| 50             | Pow(x, n)                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_50PowOfXn)                                   |
-| 1342           | Number of Steps to Reduce a Number to Zero                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1342NumberSteps)                             |
-| 17             | Letter Combinations of a Phone Number                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_17PhoneNumber)                               |
-| 5              | Longest Palindromic Substring                                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_5LongestPalindromicSubstring)                                           |
+| 205            | Isomorphic Strings                                      | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_205IsomorphicString)                         |
+| 1614           | Maximum Nesting Depth of the Parentheses                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1614MaximumDepthOfTheParentheses)            |
+| 13             | Roman to Integer                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_13RomanToInteger)                            |
+| 8              | String to Integer (atoi)                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_8StringToInteger)                            |
+| 50             | Pow(x, n)                                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_50PowOfXn)                                   |
+| 1342           | Number of Steps to Reduce a Number to Zero              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1342NumberSteps)                             |
+| 17             | Letter Combinations of a Phone Number                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_17PhoneNumber)                               |
+| 5              | Longest Palindromic Substring                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_5LongestPalindromicSubstring)                |
+| 14             | Longest common prefix                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_14LongestCommonPrefix)                       |
 
 
 
