@@ -88,6 +88,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 17             | Letter Combinations of a Phone Number                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_17PhoneNumber)                               |
 | 5              | Longest Palindromic Substring                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_5LongestPalindromicSubstring)                |
 | 14             | Longest common prefix                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_14LongestCommonPrefix)                       |
+| 1475            | Final Prices With a Special Discount in a Shop                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1475FinalPrices)                             |
 
 
 
