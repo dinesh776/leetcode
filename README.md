@@ -92,7 +92,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 219            | Contains Duplicate II                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_219ContainsDuplicate2)                       |
 | 303            | Range Sum Query - Immutable                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_303RangeSumQuery)                            |
 | 1004           | Max Consecutive Ones III                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1004MaxConsecutiveOnes3)                     |
-| 424            | Longest Repeating Character Replacement                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_424LongestRepeatingCharacterReplacement)                                         |
+| 424            | Longest Repeating Character Replacement                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_424LongestRepeatingCharacterReplacement)     |
+| 930            | Binary Subarrays With Sum                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_930BinarySubarraysWithSum)                                         |
 
 
 More problem's will be added as I continue solving them on LeetCode.
