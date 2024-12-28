@@ -95,7 +95,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 424            | Longest Repeating Character Replacement                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_424LongestRepeatingCharacterReplacement)            |
 | 930            | Binary Subarrays With Sum                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_930BinarySubarraysWithSum)                          |
 | 1248           | Count Number of Nice Subarrays                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1248CountNumberOfNiceSubarrays)                     |
-| 1358            | Number of Substrings Containing All Three Characters                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1358NumberOfSubstringsContainingAllThreeCharacters) |
+| 1358           | Number of Substrings Containing All Three Characters                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1358NumberOfSubstringsContainingAllThreeCharacters) |
+| 992            | Subarrays with K Different Integers                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_992SubarraysWithKDifferentIntegers)                 |
 
 
 More problem's will be added as I continue solving them on LeetCode.
