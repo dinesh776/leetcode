@@ -97,7 +97,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 1248           | Count Number of Nice Subarrays                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1248CountNumberOfNiceSubarrays)                     |
 | 1358           | Number of Substrings Containing All Three Characters                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1358NumberOfSubstringsContainingAllThreeCharacters) |
 | 992            | Subarrays with K Different Integers                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_992SubarraysWithKDifferentIntegers)                 |
-
+|228             | Summary Ranges                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_228SummaryRanges)                                   |
 
 More problem's will be added as I continue solving them on LeetCode.
 
@@ -109,12 +109,12 @@ More problem's will be added as I continue solving them on LeetCode.
    cd leetcode
 2. Navigate to the folder containing the specific problem solution you'd like to review:
     ```bash
-    cd leetcode/SolutionFolderName(Replace with Preferred Folder Name)
+    cd leetcode/SolutionFolderName(Replace with Preferred ame)
 3. Compile and run the solution:
     ```bash
    javac SolutionFile.java
     java SolutionFile
-
+Folder N
 Each solution folder has detailed instructions on how to run the specific code for that problem.
 
 ## Problem Categories
