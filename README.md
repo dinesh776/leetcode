@@ -97,7 +97,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 1248           | Count Number of Nice Subarrays                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1248CountNumberOfNiceSubarrays)                     |
 | 1358           | Number of Substrings Containing All Three Characters                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1358NumberOfSubstringsContainingAllThreeCharacters) |
 | 992            | Subarrays with K Different Integers                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_992SubarraysWithKDifferentIntegers)                 |
-|228             | Summary Ranges                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_228SummaryRanges)                                   |
+| 228            | Summary Ranges                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_228SummaryRanges)                                   |
+| 349            | Intersection of Two Arrays                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_349IntersectionOfTwoArrays)                         |
 
 More problem's will be added as I continue solving them on LeetCode.
 
