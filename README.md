@@ -88,17 +88,18 @@ Each problem is organized in a dedicated folder with the following structure:
 | 17             | Letter Combinations of a Phone Number                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_17PhoneNumber)                                      |
 | 5              | Longest Palindromic Substring                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_5LongestPalindromicSubstring)                       |
 | 14             | Longest common prefix                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_14LongestCommonPrefix)                              |
-| 1475           | Final Prices With a Special Discount in a Shop                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1475FinalPrices)                                    |
+| 1475           | Final Prices With a Special Discount in a Shop          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1475FinalPrices)                                    |
 | 219            | Contains Duplicate II                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_219ContainsDuplicate2)                              |
-| 303            | Range Sum Query - Immutable                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_303RangeSumQuery)                                   |
-| 1004           | Max Consecutive Ones III                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1004MaxConsecutiveOnes3)                            |
-| 424            | Longest Repeating Character Replacement                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_424LongestRepeatingCharacterReplacement)            |
-| 930            | Binary Subarrays With Sum                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_930BinarySubarraysWithSum)                          |
-| 1248           | Count Number of Nice Subarrays                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1248CountNumberOfNiceSubarrays)                     |
-| 1358           | Number of Substrings Containing All Three Characters                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1358NumberOfSubstringsContainingAllThreeCharacters) |
-| 992            | Subarrays with K Different Integers                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_992SubarraysWithKDifferentIntegers)                 |
-| 228            | Summary Ranges                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_228SummaryRanges)                                   |
-| 349            | Intersection of Two Arrays                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_349IntersectionOfTwoArrays)                         |
+| 303            | Range Sum Query - Immutable                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_303RangeSumQuery)                                   |
+| 1004           | Max Consecutive Ones III                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1004MaxConsecutiveOnes3)                            |
+| 424            | Longest Repeating Character Replacement                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_424LongestRepeatingCharacterReplacement)            |
+| 930            | Binary Subarrays With Sum                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_930BinarySubarraysWithSum)                          |
+| 1248           | Count Number of Nice Subarrays                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1248CountNumberOfNiceSubarrays)                     |
+| 1358           | Number of Substrings Containing All Three Characters    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1358NumberOfSubstringsContainingAllThreeCharacters) |
+| 992            | Subarrays with K Different Integers                     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_992SubarraysWithKDifferentIntegers)                 |
+| 228            | Summary Ranges                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_228SummaryRanges)                                   |
+| 349            | Intersection of Two Arrays                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_349IntersectionOfTwoArrays)                         |
+| 350            | Intersection of Two Arrays II                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_350IntersectionOfTwoArrays2)                        |
 
 More problem's will be added as I continue solving them on LeetCode.
 
