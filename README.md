@@ -100,6 +100,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 228            | Summary Ranges                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_228SummaryRanges)                                   |
 | 349            | Intersection of Two Arrays                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_349IntersectionOfTwoArrays)                         |
 | 350            | Intersection of Two Arrays II                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_350IntersectionOfTwoArrays2)                        |
+| 463            | Island Perimeter                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_463IslandPerimeter)                                                |
 
 More problem's will be added as I continue solving them on LeetCode.
 
