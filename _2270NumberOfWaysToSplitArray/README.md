@@ -1,4 +1,4 @@
-[# Number of Ways to Split Array
+# Number of Ways to Split Array
 
 ## Problem Description
 [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03)
