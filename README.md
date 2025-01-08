@@ -107,6 +107,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 500            | Keyboard Row                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_500KeyboardRow)                                      |
 | 1769           | Minimum Number of Operations to Move All Balls to Each Box                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1769MinimumNumberOfOperationsToMoveAllBallsToEachBox) |
 | 1408           | String Matching in an Array                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1408StringMatchingInAnArray)                         |
+| 3042           | Count Prefix and Suffix Pairs I                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_3042CountPrefixAndSuffixPairs1)                      |
 
 More problem's will be added as I continue solving them on LeetCode.
 
