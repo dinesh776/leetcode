@@ -115,6 +115,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 20             | Valid Parentheses                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_20ValidParentheses)                                   |
 | 168            | Excel Sheet Column Title                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_168ExcelSheetColumnTitle)                             |
 | 2429           | Minimize XOR                                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_2429MinimizeXOR)                                      |
+| 69             | Sqrt(x)                                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_69SqrtOfX)                                                   |
 
 More problem's will be added as I continue solving them on LeetCode.
 
