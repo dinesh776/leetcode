@@ -120,7 +120,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 744            | Find Smallest Letter Greater Than Target                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_744FindSmallestLetterGreaterThanTarget)               |
 | 1781           | Sum of Beauty of All Substrings                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1781SumOfBeauty)                                      |
 | 414            | Third Maximum Number                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_414ThirdMaximumNumber)                                |
-| 2              | Add Twq Numbers                                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_2AddTwoNumbers)                                       |
+| 2              | Add Two Numbers                                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_2AddTwoNumbers)                                       |
+| 119            | Pascal's Triangle 2                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_119PascalsTriangle2)                                  |
 
 More problem's will be added as I continue solving them on LeetCode.
 
