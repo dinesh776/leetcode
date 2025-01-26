@@ -124,6 +124,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 119            | Pascal's Triangle 2                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_119PascalsTriangle2)                                  |
 | 237            | Delete Node in a Linked List                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_237DeleteNodeInALinkedList)                           |
 | 206            | Reverse Linked List                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_206ReverseLinkedList)                                 |
+| 141            | Linked List Cycle                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_141LinkedListCycle)                                   |
 
 More problem's will be added as I continue solving them on LeetCode.
 
