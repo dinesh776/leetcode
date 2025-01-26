@@ -47,23 +47,34 @@ public class MiddleOfTheLinkedList {
         display(middleNode(head));
     }
     public static ListNode middleNode(ListNode head) {
-        int c=0;
-        ListNode mover=head;
-        while(mover!=null){
-            c++;
-            mover=mover.next;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null&&fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        int index=c/2;
-        c=0;
-        mover=head;
-        while(mover!=null){
-            if(c==index){
-                return mover;
-            }
-            c++;
-            mover=mover.next;
-        }
-        return head;
+        return slow;
     }
+
+    // brute
+    // public ListNode middleNode(ListNode head) {
+    //     int c=0;
+    //     ListNode mover=head;
+    //     while(mover!=null){
+    //         c++;
+    //         mover=mover.next;
+    //     }
+    //     int index=c/2;
+    //     c=0;
+    //     mover=head;
+    //     while(mover!=null){
+    //         if(c==index){
+    //             return mover;
+    //         }
+    //         c++;
+    //         mover=mover.next;
+    //     }
+    //     return head;
+    // }
 
 }

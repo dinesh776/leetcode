@@ -28,6 +28,12 @@ head = [1,2,3,4,5,6]
 ```
 
 ## Approach
+### Optimized Approach (Two Pointers)
+1. Use two pointers, `slow` and `fast`.
+2. Move `slow` one step and `fast` two steps at a time.
+3. When `fast` reaches the end, `slow` will be at the middle node.
+
+### Alternate Approach (Brute Force)
 1. Traverse the linked list to count the total number of nodes.
 2. Calculate the index of the middle node as `count / 2`.
 3. Traverse the list again until the middle node is reached and return it.
@@ -68,7 +74,19 @@ public class MiddleOfTheLinkedList {
         display(middleNode(head));
     }
 
+    // Optimized Approach
     public static ListNode middleNode(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    // Brute Force Approach
+    public static ListNode middleNodeBrute(ListNode head) {
         int c = 0;
         ListNode mover = head;
         while (mover != null) {
@@ -91,14 +109,19 @@ public class MiddleOfTheLinkedList {
 ```
 
 ## Complexity Analysis
-- **Time Complexity:**
-    - Counting nodes: O(n)
-    - Traversing to the middle: O(n)
-    - **Total:** O(n)
-- **Space Complexity:** O(1) (no additional space used apart from variables).
+### Optimized Approach
+- **Time Complexity:** O(n), where n is the number of nodes in the linked list.
+- **Space Complexity:** O(1), as no additional space is used.
+
+### Alternate Approach
+- **Time Complexity:** O(n) (counting nodes) + O(n) (finding middle) = O(n).
+- **Space Complexity:** O(1).
 
 ## How it Works
-1. The `constructLL` function creates a linked list from an array of integers.
-2. The `middleNode` function first counts the total number of nodes in the linked list.
-3. It calculates the middle index and traverses the list again to return the middle node.
-4. The `display` function prints the linked list starting from the middle node.
+1. **Optimized:** The `middleNode` function uses two pointers. The `fast` pointer moves twice as fast as the `slow` pointer. By the time `fast` reaches the end, `slow` will be at the middle.
+2. **Alternate:** The brute force approach counts the nodes and calculates the middle index before finding the middle node.
+
+## Package Details
+This implementation is part of the `Practice` package.
+
+GitHub Repository: `_876MiddleOfTheLinkedList`
