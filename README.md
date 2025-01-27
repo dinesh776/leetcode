@@ -126,7 +126,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 876            | Middle Of The Linked List                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_876MiddleOfTheLinkedList)                             |
 | 206            | Reverse Linked List                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_206ReverseLinkedList)                                 |
 | 141            | Linked List Cycle                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_141LinkedListCycle)                                   |
-
+| 142            | Linked List Cycle 2                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_142LinkedListCycle2)                                  |
 More problem's will be added as I continue solving them on LeetCode.
 
 ## How to Use 
