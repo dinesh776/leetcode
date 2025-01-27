@@ -104,6 +104,7 @@ public class LinkedListCycle2 {
         }
     }
 
+    //optimised
     public static ListNode detectCycle(ListNode head) {
         ListNode slow = head, fast = head;
         while (fast != null && fast.next != null) {
