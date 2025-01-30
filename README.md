@@ -129,6 +129,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 142            | Linked List Cycle 2                                        | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_142LinkedListCycle2)                                  |
 | 234            | Palindrome Linked List                                     | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_234PalindromeLinkedList)                              |
 | 328            | Odd Even Linked List                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_328OddEvenLinkedList)                                 |
+| 2095           | Delete The Middle Node Of A Linked List                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_2095DeleteTheMiddleNodeOfALinkedList)                 |
 
 More problem's will be added as I continue solving them on LeetCode.
 
