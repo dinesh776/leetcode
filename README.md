@@ -133,7 +133,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 160            | Intersection of two Linked List                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_160IntersectionOfTwoLinkedLists)                      |
 | 25             | Reverse Nodes in a k-group                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_25ReverseNodesInKGroup)                               |
 | 61             | Rotate List                                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_61RotateList)                                         |
-| 138            | Copy List With Random Pointers                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_138CopyListWithRandomPointer)                                         |
+| 138            | Copy List With Random Pointers                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_138CopyListWithRandomPointer)                         |
+| 1992           | Count Good Numbers                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1992CountGoodNumbers)                                                 |
 
 More problem's will be added as I continue solving them on LeetCode.
 
