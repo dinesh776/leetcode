@@ -135,7 +135,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 61             | Rotate List                                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_61RotateList)                                         |
 | 138            | Copy List With Random Pointers                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_138CopyListWithRandomPointer)                         |
 | 1992           | Count Good Numbers                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1992CountGoodNumbers)                                                 |
-| 21             | Generate Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_22GenerateParentheses)                                                 |
+| 22             | Generate Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_22GenerateParentheses)                                                 |
 
 More problem's will be added as I continue solving them on LeetCode.
 
