@@ -136,7 +136,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 138            | Copy List With Random Pointers                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_138CopyListWithRandomPointer)                         |
 | 1992           | Count Good Numbers                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1992CountGoodNumbers)                                                 |
 | 22             | Generate Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_22GenerateParentheses)                                                 |
-
+| 19              | Remove Nth Node From End of List                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_19RemoveNthNode)                                                 |
 More problem's will be added as I continue solving them on LeetCode.
 
 ## How to Use 
