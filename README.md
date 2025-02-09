@@ -139,6 +139,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 19             | Remove Nth Node From End of List                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_19RemoveNthNode)                                                 |
 | 1021           | Remove Outermost Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1021RemoveOutermostParentheses)                                                 |
 | 225            | Implement Stack using Queues                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_225ImplementStackUsingQueues)                                                 |
+| 232            | Implement Queue using Stacks                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_232ImplementQueueUsingStacks)                                                 |
 
 
 More problem's will be added as I continue solving them on LeetCode.
