@@ -134,12 +134,13 @@ Each problem is organized in a dedicated folder with the following structure:
 | 25             | Reverse Nodes in a k-group                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_25ReverseNodesInKGroup)                               |
 | 61             | Rotate List                                                | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_61RotateList)                                         |
 | 138            | Copy List With Random Pointers                             | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_138CopyListWithRandomPointer)                         |
-| 1992           | Count Good Numbers                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1992CountGoodNumbers)                                                 |
-| 22             | Generate Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_22GenerateParentheses)                                                 |
-| 19             | Remove Nth Node From End of List                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_19RemoveNthNode)                                                 |
-| 1021           | Remove Outermost Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1021RemoveOutermostParentheses)                                                 |
-| 225            | Implement Stack using Queues                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_225ImplementStackUsingQueues)                                                 |
-| 232            | Implement Queue using Stacks                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_232ImplementQueueUsingStacks)                                                 |
+| 1992           | Count Good Numbers                                         | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1992CountGoodNumbers)                                 |
+| 22             | Generate Parentheses                                       | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_22GenerateParentheses)                                |
+| 19             | Remove Nth Node From End of List                           | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_19RemoveNthNode)                                      |
+| 1021           | Remove Outermost Parentheses                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1021RemoveOutermostParentheses)                       |
+| 225            | Implement Stack using Queues                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_225ImplementStackUsingQueues)                         |
+| 232            | Implement Queue using Stacks                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_232ImplementQueueUsingStacks)                         |
+| 155            | Min Stack                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_155MinStack)                                          |
 
 
 More problem's will be added as I continue solving them on LeetCode.
