@@ -141,7 +141,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 225            | Implement Stack using Queues                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_225ImplementStackUsingQueues)                         |
 | 232            | Implement Queue using Stacks                               | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_232ImplementQueueUsingStacks)                         |
 | 155            | Min Stack                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_155MinStack)                                          |
-
+| 151            | Reverse Words in a String                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_151ReverseWordsInAString)                                          |
 
 More problem's will be added as I continue solving them on LeetCode.
 
