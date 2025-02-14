@@ -144,6 +144,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 151            | Reverse Words in a String                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_151ReverseWordsInAString)                             |
 | 39             | Combination Sum                                            | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_39CombinationSum)                                     |
 | 40             | Combination Sum 2                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_40CombinationSum2)                                    |
+| 90             | Subsets 2                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_90Subsets2)                                           |
 
 More problem's will be added as I continue solving them on LeetCode.
 
