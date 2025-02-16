@@ -146,6 +146,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 40             | Combination Sum 2                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_40CombinationSum2)                                    |
 | 90             | Subsets 2                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_90Subsets2)                                           |
 | 216            | Combination Sum 3                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_216CombinationSum3)                                   |
+| 131            | Palindrome Partitioning                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_131PalindromePartitioning)                                   |
 
 More problem's will be added as I continue solving them on LeetCode.
 
