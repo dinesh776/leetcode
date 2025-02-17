@@ -17,7 +17,7 @@ Each problem is organized in a dedicated folder with the following structure:
 - **SolutionFile.java**: The main solution file for the problem, typically written in Java. Other languages may be added in the future.
 - **README.md**: A markdown file providing an explanation of the problem, approach, time complexity, and instructions on how to run the solution.
 
-## Sample of Solved Problems
+## List of Solved Problems
 
 | Problem Number | Problem Title                                              | Solution Link                                                                                                             |
 |----------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
