@@ -148,7 +148,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 216            | Combination Sum 3                                          | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_216CombinationSum3)                                   |
 | 131            | Palindrome Partitioning                                    | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_131PalindromePartitioning)                            |
 | 79             | WordSearch                                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_79WordSearch)                                         |
-| 51              | N Queens                                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_51NQueens)                                            |
+| 51             | N Queens                                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_51NQueens)                                            |
+| 139            | Word Break                                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_139WordBreak)                                         |
 
 More problem's will be added as I continue solving them on LeetCode.
 
