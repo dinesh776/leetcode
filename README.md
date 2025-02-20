@@ -150,6 +150,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 79             | WordSearch                                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_79WordSearch)                                         |
 | 51             | N Queens                                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_51NQueens)                                            |
 | 139            | Word Break                                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_139WordBreak)                                         |
+| 37             | Sudoko Solver                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_37SudokoSolver)                                       |
 
 More problem's will be added as I continue solving them on LeetCode.
 
