@@ -151,7 +151,8 @@ Each problem is organized in a dedicated folder with the following structure:
 | 51             | N Queens                                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_51NQueens)                                            |
 | 139            | Word Break                                                 | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_139WordBreak)                                         |
 | 37             | Sudoko Solver                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_37SudokoSolver)                                       |
-| 282            | Expression Add Operators                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_282ExpressionAddOperators)                                       |
+| 282            | Expression Add Operators                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_282ExpressionAddOperators)                            |
+| 912            | Sort An Array                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_912SortAnArray)                                       |
 
 More problem's will be added as I continue solving them on LeetCode.
 
