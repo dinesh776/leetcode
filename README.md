@@ -153,6 +153,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 37             | Sudoko Solver                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_37SudokoSolver)                                       |
 | 282            | Expression Add Operators                                   | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_282ExpressionAddOperators)                            |
 | 912            | Sort An Array                                              | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_912SortAnArray)                                       |
+| 148             | Sort List                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_148SortList)                                          |
 
 More problem's will be added as I continue solving them on LeetCode.
 
