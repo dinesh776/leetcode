@@ -1,4 +1,4 @@
-package Practice;
+package Github._503NextGreaterElement2;
 //503. Next Greater Element II
 //https://leetcode.com/problems/next-greater-element-ii/description/
 import java.util.Arrays;
