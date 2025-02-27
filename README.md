@@ -156,6 +156,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 148            | Sort List                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_148SortList)                                          |
 | 451            | Sort Characters By Frequency                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_451SortCharactersByFrequency)                                          |
 | 503            | Next Greater Element II                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_503NextGreaterElement2)                                          |
+| 1752           | Check if Array Is Sorted and Rotated                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1752CheckIfArrayIsSortedAndRotated)                                          |
 
 More problem's will be added as I continue solving them on LeetCode.
 
