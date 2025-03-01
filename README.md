@@ -158,6 +158,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 503            | Next Greater Element II                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_503NextGreaterElement2)                                          |
 | 1752           | Check if Array Is Sorted and Rotated                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1752CheckIfArrayIsSortedAndRotated)                                          |
 | 1838           | Frequency of the Most Frequent Element                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1838FrequencyOfTheMostFrequentElement)                                          |
+| 29             | Divide Two Integers                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_29DivideTwoIntegers)                                          |
 
 More problem's will be added as I continue solving them on LeetCode.
 
