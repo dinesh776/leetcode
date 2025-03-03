@@ -160,6 +160,7 @@ Each problem is organized in a dedicated folder with the following structure:
 | 1838           | Frequency of the Most Frequent Element                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_1838FrequencyOfTheMostFrequentElement)                                          |
 | 29             | Divide Two Integers                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_29DivideTwoIntegers)                                          |
 | 2220           | Minimum Bit Flips to Convert Number                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_2220MinimumBitFlipsToConvertNumber)                                          |
+| 204            | Count Primes                                                  | [Link to Solution](https://github.com/dinesh776/leetcode/tree/main/_204CountPrimes)                                          |
 
 More problem's will be added as I continue solving them on LeetCode.
 
