@@ -3,6 +3,7 @@ package Github._50PowOfXn;
 //50. Pow(x, n)
 //https://leetcode.com/problems/powx-n/description/
 
+
 public class PowerOfXn {
     public static void main(String[] args) {
         double x=2.00000;
