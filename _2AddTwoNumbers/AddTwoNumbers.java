@@ -2,7 +2,6 @@ package Github._2AddTwoNumbers;
 //Add Two Numbers
 //https://leetcode.com/problems/add-two-numbers/description/
 public class AddTwoNumbers {
-
     public static void main(String[] args) {
         ListNode last=new ListNode(3,null);
         ListNode s2=new ListNode(4,last);
