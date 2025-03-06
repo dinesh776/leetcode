@@ -11,6 +11,7 @@ public class AddTwoNumbers {
         ListNode s11=new ListNode(5,s12);
         ListNode.display(s1);
         System.out.println();
+
         ListNode.display(s11);
         System.out.println();
         ListNode node=addTwoNumbers(s1,s11);
