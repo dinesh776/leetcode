@@ -8,8 +8,7 @@ import java.util.Arrays;
 public class LongestSubstringWithNoRepeatingCharacter {
     public static void main(String[] args) {
     String s= "pwwkew";
-
-        System.out.println(maxLen(s));
+    System.out.println(maxLen(s));
     }
     static int maxLen(String s){
         int[] hash=new int[256];
