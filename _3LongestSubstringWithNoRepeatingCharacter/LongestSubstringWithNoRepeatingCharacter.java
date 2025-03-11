@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class LongestSubstringWithNoRepeatingCharacter {
     public static void main(String[] args) {
-    String s= "pwwkew";
+    String s = "pwwkew";
     System.out.println(maxLen(s));
     }
     static int maxLen(String s){
